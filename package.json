@@ -1,0 +1,21 @@
+{
+  "name": "multichat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wolfman",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.7.4",
+    "express": "^4.17.1",
+    "http-msgs": "^1.0.9",
+    "ibm-watson": "^5.1.0",
+    "nodemon": "^2.0.1",
+    "sqlite3": "^4.1.0",
+    "util": "^0.12.1"
+  }
+}
